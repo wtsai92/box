@@ -32,6 +32,9 @@
 			"key": "apv2_瑞丰",
 			"name": "⛄┃瑞丰┃影视",
 			"type": 3,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
 			"api": "csp_AppYsV2",
 			"ext": "http://www.miniku.cc/xgapp.php/v2/"
 		},
