@@ -18,16 +18,15 @@
 			"ext": "https://yayayaaapp.ynf.icu/api.php/app/"
 		},
 		{
-			"key": "侦探TV",
-			"name": "🕵️┃侦探┃盒子",
-			"type": 3,
-			"api": "csp_AppYsV2",
+	        "key": "侦探TV",
+	        "name": "🕵️┃侦探┃盒子",
+	        "type": 3,
+	        "api": "csp_AppYsV2",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"playerType": 1,
-			"ext": "http://ytcms.lfytyl.com/api.php/app/"
-		},
+			"ext": "http://yt3353.lfytyl.com/api.php/app/"
+	    },
 		{
 			"key": "apv2_瑞丰",
 			"name": "⛄┃瑞丰┃影视",
