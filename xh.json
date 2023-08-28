@@ -20,18 +20,6 @@
 			"ext": "https://yayayaaapp.ynf.icu/api.php/app/"
 		},
 		{
-			"key": "侦探TV",
-			"name": "🕵️┃侦探┃盒子",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"style":{ "type":"rect", "ratio":1.33 },
-			"ext": "http://yt22106.lfytyl.com/api.php/app/",
-			"jar": "https://qu.ax/QdLc.jpg;md5;fd6a2cf8f31c7112731c5f90dab94847"
-		},
-		{
 			"key": "apv2_瑞丰",
 			"name": "⛄┃瑞丰┃影视",
 			"type": 3,
