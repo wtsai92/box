@@ -10,16 +10,6 @@
 			"filterable": 0
 		},
 		{
-			"key": "鸭鸭",
-			"name": "🦆┃鸭鸭┃影视",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://yayayaaapp.ynf.icu/api.php/app/"
-		},
-		{
 			"key": "apv2_瑞丰",
 			"name": "⛄┃瑞丰┃影视",
 			"type": 3,
@@ -38,16 +28,16 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://www.kuin.one/api.php/app/"
-		},
+		}
 		{
-			"key": "飞速",
-			"name": "🚄┃影探┃影视",
+			"key": "鸭鸭",
+			"name": "🦆┃鸭鸭┃影视",
 			"type": 3,
-			"api": "csp_YTVIP",
+			"api": "csp_AppYsV2",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "vip.lyyytv.cn"
+			"ext": "https://yayayaaapp.ynf.icu/api.php/app/"
 		},
 		{
 			"key": "drpy_js_奇珍异兽",
