@@ -23,6 +23,26 @@
 			"ext": "http://www.miniku.cc/xgapp.php/v2/"
 		},
 		{
+			"key": "csp_Nmys",
+			"name": "🧑农民┃直连",
+			"type": 3,
+			"api": "csp_Nmys",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0,
+			"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"
+		},
+		{
+			"key": "nangua",
+			"name": "🎃┃南瓜┃影视",
+			"type": 3,
+			"playerType": "2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+			"ext": "https://d.kstore.space/download/6296/js/南瓜.js"
+		},
+		{
 			"key": "csp_beijihu",
 			"name": "🎪┃极狐┃影视",
 			"type": 3,
@@ -31,16 +51,6 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://www.kuin.one/api.php/app/"
-		},
-		{
-			"key": "鸭鸭",
-			"name": "🦆┃鸭鸭┃影视",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://yayayaaapp.ynf.icu/api.php/app/"
 		},
 		{
 			"key": "影探VIP",
@@ -62,21 +72,6 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
-		},
-		{
-			"key": "csp_Nmys",
-			"name": "🌾┃农民┃影视",
-			"type": 3,
-			"api": "csp_Nmys",
-			"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"
-		},
-		{
-			"key": "nangua",
-			"name": "🎃┃南瓜┃影视",
-			"type": 3,
-			"playerType": "2",
-			"api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-			"ext": "https://d.kstore.space/download/6296/js/南瓜.js"
 		},
 		{
 			"key": "77",
