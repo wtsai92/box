@@ -23,6 +23,22 @@
 			"ext": "http://www.miniku.cc/xgapp.php/v2/"
 		},
 		{
+			"key": "南坊",
+			"name": "☀┃南坊┃影视",
+			"type": 3,
+			"api": "csp_AppMao",
+			"searchable": 1,
+			"quickSearch": 1,
+			"ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsiwNM6dXSwTArm5em8Lv8ppXgro"
+		},
+		{
+			"key": "影探",
+			"name": " 🕵┃影探┃影视",
+			"type": 3,
+			"api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+			"ext": "https://d.kstore.space/download/6296/js/yt.js"
+		},
+		{
 			"key": "csp_Nmys",
 			"name": "🧑农民┃直连",
 			"type": 3,
@@ -51,16 +67,6 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://www.kuin.one/api.php/app/"
-		},
-		{
-			"key": "影探VIP",
-			"name": "🚄┃影探┃影视",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://vipcms.lyyytv.cn/api.php/app/"
 		},
 		{
 			"key": "奇奇",
@@ -152,15 +158,6 @@
 			"ext": "FbjDcUxPqpfNr0QF4QvEpcoxKswNEYZXRyAO8OnxwhkUAsnfrD3UxUnd5uf6Syy5Zj/ZkmErkn43XTMqXJB5fBoOBY+LxA+MbSlPxicbkKI0DPmhb2kwcka2Ynt61dOw5yzaKt5kGdYhoEUR71SiEh0LO+zk7ktXaJBbLjIRc1qz5aoN+7dFHw=="
 		},
 		{
-			"key": "南坊",
-			"name": "☀┃南坊┃影视",
-			"type": 3,
-			"api": "csp_AppMao",
-			"searchable": 1,
-			"quickSearch": 1,
-			"ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsiwNM6dXSwTArm5em8Lv8ppXgro"
-		},
-		{
 			"key": "荐片",
 			"name": "🎬┃荐片┃影视",
 			"type": 3,
@@ -174,13 +171,6 @@
 			"playerType": "2",
 			"api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
 			"ext": "https://d.kstore.space/download/6296/js/厂长.js"
-		},
-		{
-			"key": "影探",
-			"name": " 🕵┃影探┃影视",
-			"type": 3,
-			"api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-			"ext": "https://d.kstore.space/download/6296/js/yt.js"
 		},
 		{
 			"key": "路人",
